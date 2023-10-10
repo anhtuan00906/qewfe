@@ -1,2 +1,1 @@
-https://anhtuan4g.shop/api/v1/client/subscribe?token=e808d2c9c96552e5e3641fcb583536c2
-https://anhtuan4g.shop/api/v1/client/subscribe?token=1dbb1d647c770a3e03915d17729798ea
+https://4gsieure.shop/api/v1/client/subscribe?token=bdc2567761d0fb38db574f8992db3898
